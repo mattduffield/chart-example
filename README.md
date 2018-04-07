@@ -12,3 +12,5 @@ The following are the steps required to get this project running:
 1. First, you need to use FrontEnd Creator.
 
 2. Second, you need to test your app thoroughly.
+
+3. Third, you need to trust all will go well.
