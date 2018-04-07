@@ -18,3 +18,5 @@ The following are the steps required to get this project running:
 4. Fourth, get plenty of rest.
 
 5. Fifth, take breaks often.
+
+6. Sixth, drink plenty of water.
