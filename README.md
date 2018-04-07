@@ -16,3 +16,5 @@ The following are the steps required to get this project running:
 3. Third, you need to trust all will go well.
 
 4. Fourth, get plenty of rest.
+
+5. Fifth, take breaks often.
