@@ -20,3 +20,5 @@ The following are the steps required to get this project running:
 5. Fifth, take breaks often.
 
 6. Sixth, drink plenty of water.
+
+7. Seventh, concentrate...
