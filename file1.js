@@ -1,3 +1,3 @@
-export File1 {
+export class File1 {
   
 }
