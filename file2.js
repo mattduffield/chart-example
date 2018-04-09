@@ -1,2 +1,3 @@
-V2xob2QySXpTakJKUjA1eldWaE9la2xGV25CaVIxVjVTVWh6UzBsRFFVdG1V
-VDA5Q2c9PQo=
+export class File2 {
+  
+}
