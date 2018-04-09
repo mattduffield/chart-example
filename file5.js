@@ -3,4 +3,5 @@ export class File5 {
   // another
   // yeti
   // something else
+  // and another thing...
 }
