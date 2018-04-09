@@ -1,2 +1,3 @@
-VjJ4b2IyUXlTWHBUYWtKS1VqQTFlbGRXYUU5bGEyeEdWMjVDYVZJeFZqVlRW
-V2g2VXpCc1JGRlZkRzFWClZ6ZzVRMmM5UFFvPQo=
+var file2 = function() {
+  // Try this on for size...
+};
