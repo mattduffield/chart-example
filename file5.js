@@ -1,5 +1,2 @@
-export class File5 {
-  // clearly
-  // another try
-  // test 123
-}
+ZXhwb3J0IGNsYXNzIEZpbGU1IHsKICAvLyBjbGVhcmx5CiAgLy8gYW5vdGhl
+ciB0cnkKICAvLyB0ZXN0IDEyMwp9

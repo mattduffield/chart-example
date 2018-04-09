@@ -1,3 +1,1 @@
-export class File1 {
-  
-}
+ZXhwb3J0IGNsYXNzIEZpbGUxIHsKICAKfQ==
