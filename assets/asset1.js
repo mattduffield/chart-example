@@ -1,3 +1,0 @@
-function asset1() {
-  
-}
