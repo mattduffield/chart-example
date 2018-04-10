@@ -1,3 +1,0 @@
-export class sub4 {
-  
-}
