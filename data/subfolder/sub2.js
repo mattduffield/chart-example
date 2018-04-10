@@ -1,3 +1,0 @@
-funciton sub2() {
-  
-}
