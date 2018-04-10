@@ -1,6 +1,0 @@
-var file2 = function() {
-  // Try this on for size...
-  // and this is another...
-  // feature xyz
-  // feature 123
-};
