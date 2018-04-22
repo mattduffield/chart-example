@@ -22,3 +22,5 @@ The following are the steps required to get this project running:
 6. Sixth, drink plenty of water.
 
 7. Seventh, concentrate...
+
+8. Test your changes often.
