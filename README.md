@@ -24,3 +24,5 @@ The following are the steps required to get this project running:
 7. Seventh, concentrate...
 
 8. Test your changes often.
+
+9. Make sure you save often as well.
