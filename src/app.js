@@ -1,5 +1,5 @@
 import {PLATFORM} from 'aurelia-pal';
-// test commit 2
+// test commit 3
 export class App {
   configureRouter(config, router) {
     config.title = 'Chart Sample';
