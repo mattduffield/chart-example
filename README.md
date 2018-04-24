@@ -32,3 +32,5 @@ The following are the steps required to get this project running:
 11. Keep at it.
 
 12. Another fix.
+
+13. Sometimes, the way solutions is the simplest.
