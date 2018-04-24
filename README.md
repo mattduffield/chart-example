@@ -28,3 +28,5 @@ The following are the steps required to get this project running:
 9. Make sure you save often as well.
 
 10. Async is best.
+
+11. Keep at it.
